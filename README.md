@@ -111,7 +111,7 @@ zarrin-jewelry
 ### Installation
 
 ```bash
-git clone https://github.com/<your-username>/zarrin-jewelry.git
+git clone https://github.com/mohjavad333/Jewelry-Store
 cd zarrin-jewelry
 pnpm install
 ```
@@ -191,4 +191,4 @@ The repo includes `netlify.toml` and `netlify/functions/api.ts`, so the client c
 ## Author
 
 **Mohammad Javad Rezaei**
-GitHub: [@your-username](https://github.com/your-username)
+GitHub: [@mohjavad333](https://github.com/mohjavad333/Jewelry-Store)
